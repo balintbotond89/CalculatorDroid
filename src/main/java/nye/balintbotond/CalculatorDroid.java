@@ -45,9 +45,9 @@ public class CalculatorDroid {
         return firstNumber;
     }
 
-    //Setter method for secondNumber
-    public void setSecondNumber(int number) {
-        secondNumber = number;
+    //Setter method for secondNumber (ha ugyanolyan nevü a bejövő paraméter mint a változó neve):
+    public void setSecondNumber(int secondNumber) {
+        this.secondNumber = secondNumber;
     }
 
     //Getter method for secondNumber
