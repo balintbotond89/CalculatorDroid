@@ -6,6 +6,11 @@ public class CalculatorDroid {
     private int firstNumber;
     private int secondNumber;
 
+    //New object constructor
+    public CalculatorDroid() {
+
+    }
+
     //Setter method to request information (void methódus, mert nincs visszatérési értéke)
     public void setFirstNumber(int number) {
         firstNumber=number;
