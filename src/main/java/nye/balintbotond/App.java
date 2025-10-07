@@ -11,5 +11,11 @@ public class App {
         droid.setSecondNumber(56);
         System.out.println(droid.getFirstNumber());
         System.out.println(droid.getSecondNumber());
+
+        droid.addNumbers();
+        droid.subtractNumbers();
+        droid.divideNumbers();
+        droid.multiplyNumbers();
+        droid.modNumbers();
     }
 }
