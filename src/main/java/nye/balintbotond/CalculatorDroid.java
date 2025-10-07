@@ -8,7 +8,6 @@ public class CalculatorDroid {
 
     //New object constructor
     public CalculatorDroid() {
-
     }
 
     //Setter method to request information (void methódus, mert nincs visszatérési értéke)
