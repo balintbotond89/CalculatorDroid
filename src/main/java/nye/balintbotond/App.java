@@ -5,7 +5,7 @@ package nye.balintbotond;
 public class App {
     public static void main(String[] args) {
         int firstNumber = 12;
-        int secondNumber = 24;
+        int secondNumber = 55;
         System.out.println(firstNumber + secondNumber);
     }
 }
